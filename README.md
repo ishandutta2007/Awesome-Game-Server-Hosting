@@ -57,7 +57,7 @@ The table below lists top managed SaaS game server hosting providers sorted by *
 
 ## 💻 Open-Source GitHub Projects
 
-Below are open-source dedicated server managers, Kubernetes operators, matchmakers, and container templates sorted by **GitHub Stars_Count (Descending)**:
+Below are open-source dedicated server managers, Kubernetes operators, matchmakers, and container templates sorted by **GitHub_Stars_Count (Descending)**:
 
 1. **[Nakama](https://github.com/heroiclabs/nakama)** [![Nakama Stars](https://img.shields.io/github/stars/heroiclabs/nakama?style=social&color=white)](https://github.com/heroiclabs/nakama/stargazers)  
    *Distributed open-source server for social and real-time competitive games. Handles sessions, matchmaking, turn-based gameplay, and storage.*

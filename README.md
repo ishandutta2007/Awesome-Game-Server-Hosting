@@ -83,6 +83,9 @@ Below are open-source dedicated server managers, Kubernetes operators, matchmake
 8. **[LinuxGSM Docker](https://github.com/GameServerManagers/LinuxGSM-Docker)** [![LinuxGSM Docker Stars](https://img.shields.io/github/stars/GameServerManagers/LinuxGSM-Docker?style=social&color=white)](https://github.com/GameServerManagers/LinuxGSM-Docker/stargazers)  
    *Official containerized distribution of LinuxGSM for multi-server orchestration on container hosts.*
 
+9. **[EpicWing](https://github.com/EpicWing/epicwing-panel)** [![EpicWing Stars](https://img.shields.io/github/stars/EpicWing/epicwing-panel?style=social&color=white)](https://github.com/EpicWing/epicwing-panel/stargazers)
+   *Self-hosted panel for game servers, Discord bots, web apps and anything else that runs in a Docker container. Template marketplace, SFTP, backups to S3 and an import from Pterodactyl and Pelican.*
+
 ---
 
 ## 🏗️ Architecture & Deployment Frameworks
